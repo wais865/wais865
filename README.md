@@ -33,7 +33,3 @@ I work across the stack, with particular focus on backend architecture and data-
 **E-Learning Platform** - a REST API backend built with Spring Boot.
 
 Case studies for these projects are written up on my [portfolio site](https://wais-alizada.vercel.app).
-
-## GitHub stats
-
-![Wais's GitHub stats](https://github-readme-stats.vercel.app/api?username=wais865&show_icons=true&theme=default)
