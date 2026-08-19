@@ -1,35 +1,40 @@
 # Wais Alizada
 
-Full-stack developer based in Dusseldorf, Germany, focused on building production backend and full-stack systems - from enterprise HR platforms to bilingual client websites.
+Software Developer focused on backend and full-stack engineering.
 
-**Portfolio:** [wais-alizada.vercel.app](https://wais-alizada.vercel.app)
+I build practical software for real-world problems, with a focus on maintainable backend systems, databases, APIs and full-stack applications.
 
+**Based in:** Germany  
+**Open to:** Junior Software Engineering opportunities  
+**Portfolio:** [wais-alizada.vercel.app](https://wais-alizada.vercel.app)  
 **LinkedIn:** [linkedin.com/in/wais-alizada](https://www.linkedin.com/in/wais-alizada/)
 
-## Focus
+## Tech
 
-I work across the stack, with particular focus on backend architecture and data-driven systems: designing APIs, structuring databases, and building interfaces that hold up under real-world use rather than demo conditions.
+**Backend:** Java · Spring Boot · Node.js · Express.js  
+**Frontend:** React · Next.js · TypeScript · JavaScript  
+**Databases:** MongoDB · MySQL  
+**Concepts:** SQL · NoSQL · Data Modeling  
+**Tools:** Git · Linux · GitHub Actions · Vite
 
-## Tech stack
+## Selected Work
 
-**Languages:** JavaScript, TypeScript, Python, Java
+### [Wais Portfolio](https://github.com/wais865/wais865-wais-portfolio)
+Production developer portfolio built with Next.js, TypeScript and Tailwind CSS, using a reusable data-driven case-study architecture and automated CI validation.
 
-**Frontend:** React, Next.js, HTML, CSS, Bootstrap, Tailwind CSS
+### [Dormitory Management Information System](https://github.com/wais865/Dormitory-management-information-system)
+Three-person university project developed for real dormitory operations and deployed for actual use. I worked as the lead developer, with a focus on application development and NoSQL data modeling.
 
-**Backend:** Node.js, Express, Spring Boot
+### HRMIS
+Collaborative enterprise HR management application developed for a government organization. The source repository is private; a sanitized engineering case study is available on my portfolio.
 
-**Database:** MongoDB
+### [Talent Aurora](https://wais-alizada.vercel.app/projects/talent-aurora)
+Independent client project delivered as a production bilingual website with English and German support.
 
-**Tools:** Git, GitHub Actions
+## Current Focus
 
-## Featured projects
+Strengthening backend engineering skills through maintainable APIs, database design, testing, CI and production-oriented software development.
 
-**HRMIS** - Human Resource Management Information System built for enterprise/government use.
+## More
 
-**Dormitory Management Information System (DMIS)** - a university housing management system, deployed and used in production.
-
-**TalentAurora** - an independent client project delivered as a production bilingual website.
-
-**E-Learning Platform** - a REST API backend built with Spring Boot.
-
-Case studies for these projects are written up on my [portfolio site](https://wais-alizada.vercel.app).
+Detailed project case studies and my resume are available on my [portfolio](https://wais-alizada.vercel.app).
